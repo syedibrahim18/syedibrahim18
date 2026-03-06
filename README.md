@@ -49,3 +49,13 @@ Final year MCA project using Computer Vision.
 
 LinkedIn: https://www.linkedin.com/in/syed-ibrahim-m/ 
 Email: syedibrahimibru@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Syed Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedibrahim18&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedibrahim18&layout=compact&theme=tokyonight)
+
+---
