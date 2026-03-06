@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Syed Ibrahim
 
-<!--
-**syedibrahim18/syedibrahim18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate (2025)  
+💻 Aspiring Java Full Stack Developer  
+📍 Chennai, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a passionate developer focused on building clean and scalable web applications.
+
+- 🌱 Currently learning **Java Full Stack Development**
+- 💻 Interested in **Backend Development & Web Applications**
+- 🎯 Goal: Become a **Professional Software Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- React
+- MySQL
+- SpringBoot
+- Git
+- GitHub
+
+---
+
+## 📂 Projects
+
+### EduTrack
+A web application to manage student records using Java.
+
+### YouTube Clone
+A static YouTube UI clone built using HTML and CSS.
+
+### Aqua Vision – AI Powered Drowning Detection System
+Final year MCA project using Computer Vision.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/syed-ibrahim-m/ 
+Email: syedibrahimibru@gmail.com
