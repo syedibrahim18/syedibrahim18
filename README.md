@@ -16,7 +16,6 @@ I am a passionate developer focused on building clean and scalable web applicati
 
 ---
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
